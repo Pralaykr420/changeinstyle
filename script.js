@@ -38,7 +38,7 @@ function makeAllChanges() {
     } 
     else if (clickCount === 3) {
         document.getElementById('box').innerHTML = "Hey Sneha";
-        document.getElementById('bad').innerHTML = "<h3>But the most important thing is </h3>";
+        document.getElementById('bad').innerHTML = "<h3> Do you know that? </h3>";
         document.getElementById('cat').innerHTML = "From";
         document.getElementById('cat').style.fontSize = "initial";
 
