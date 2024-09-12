@@ -30,7 +30,7 @@ function makeAllChanges() {
     } 
     else if (clickCount === 2) {
         document.getElementById('box').innerHTML = "<h3>You know you are and also a BANDRI</h3>";
-        document.getElementById('box').style.color = "green";
+        document.getElementById('box').style.color = "rgb(109, 6, 244)";
         document.getElementById('bad').style.color = 'brown';
         document.getElementById('bad').innerHTML = '<h1>I MISS YOUUUUUU</h1>';
         document.getElementById('cat').style.fontSize = '30px';
